@@ -1,6 +1,6 @@
 # Predicting_Default_Risk_on_P2P_Lending_Platforms
 
-## Quickaccess
+## Quick access
 - Notebook: View on [Google Colab](https://colab.research.google.com/drive/10LFjHiKmcD4RJads9YxdNpkDIftROG58?usp=sharing)
 - Dataset: Access on [Google Drive](https://drive.google.com/drive/folders/1jYKJ5yzha8XTa46jDtVz8SuZKivsdZ7b?usp=sharing)
 - Detailed paper: 
@@ -26,7 +26,7 @@ Analysis of 1,044,488 loan records with 114 variables from 2015 to 2018 to predi
 
 How to Run
 
-- Access the notebook: [Google Colab Notebook Link]([url](https://colab.research.google.com/drive/10LFjHiKmcD4RJads9YxdNpkDIftROG58?usp=sharing))
+- Access the notebook: [Google Colab Notebook Link](https://colab.research.google.com/drive/10LFjHiKmcD4RJads9YxdNpkDIftROG58?usp=sharing)
 - Save a copy to your Google Drive
 - Download the dataset from the link provided
 - Upload the dataset to your Google Drive
