@@ -1,8 +1,8 @@
 # Predicting_Default_Risk_on_P2P_Lending_Platforms
 
 ## Quickaccess
-Notebook: View on [Google Colab]([url](https://colab.research.google.com/drive/10LFjHiKmcD4RJads9YxdNpkDIftROG58?usp=sharing)))
-Dataset: Access on [Google Drive]([url](https://drive.google.com/drive/folders/1jYKJ5yzha8XTa46jDtVz8SuZKivsdZ7b?usp=sharing))
+- Notebook: View on [Google Colab]([url](https://colab.research.google.com/drive/10LFjHiKmcD4RJads9YxdNpkDIftROG58?usp=sharing)))
+- Dataset: Access on [Google Drive]([url](https://drive.google.com/drive/folders/1jYKJ5yzha8XTa46jDtVz8SuZKivsdZ7b?usp=sharing))
 Detailed paper: 
 
 ## Overview
