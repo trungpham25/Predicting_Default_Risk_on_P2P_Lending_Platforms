@@ -3,7 +3,7 @@
 ## Quick access
 - Notebook: View on [Google Colab](https://colab.research.google.com/drive/10LFjHiKmcD4RJads9YxdNpkDIftROG58?usp=sharing)
 - Dataset: Access on [Google Drive](https://drive.google.com/drive/folders/1jYKJ5yzha8XTa46jDtVz8SuZKivsdZ7b?usp=sharing)
-- Detailed paper: 
+- Detailed paper: [Predicting Default Risk on Peer-to-Peer Lending Platform](https://github.com/trungpham25/Predicting_Default_Risk_on_P2P_Lending_Platforms/blob/ad99a7c45ec23748e2b0848b6404b0c6d3a48c97/Predicting%20Default%20Risk%20on%20P2P%20Lending%20Platform.pdf)
 
 ## Overview
 Analysis of 1,044,488 loan records with 114 variables from 2015 to 2018 to predict default risk using machine learning models. Developed comprehensive risk assessment framework achieving 79.6% accuracy in default prediction, enabling data-driven lending decisions and optimized risk-return portfolio management. For more information, please refer to my detailed technical paper.
